@@ -1,0 +1,31 @@
+body{
+    background-color: blueviolet;
+}
+
+.form{
+    background-color: white;
+    display: flex;   
+align-items: center;
+justify-content: center;
+min-height: 90vh;
+flex-direction: column;
+}
+
+.input-fields{
+display: block;
+height: 25px;
+width: 250px;
+margin-bottom: 10px;
+padding: 10px;
+border-radius: 20px;
+}
+
+#button{
+background-color: green;
+color:white;
+border:none;
+padding: 10px 0px 10px 0px;
+width: 270px;
+border-radius: 20px;
+text-align: center;
+}
